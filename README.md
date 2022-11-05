@@ -1,4 +1,5 @@
-### Hi there 👋
+# Hi 👋, This is Sumaya. A Professional Mobile App Developer ( Flutter | Android )
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="100%" height="400" />
 
 <!--
 **sumayaaktersumu/sumayaaktersumu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
